@@ -20,7 +20,7 @@ jobs:
           outputs: dist/github-contribution-grid-snake-dark.svg
 
       - name: push snake
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
