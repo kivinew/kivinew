@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kivinew/kivinew/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://github.com/kivinew/kivinew/blob/output/github-snake-dark.svg" alt="snake"/>
 </p>
 
 <p align="center">
